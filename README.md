@@ -9,6 +9,6 @@
 
 ## 额外说明
 
-目前此作者已重制此 Mod，但本项目还未跟进汉化。
+目前 Mod 作者已重制此 Mod，但本项目还未跟进汉化。
 
 重制版 Mod 详见：https://www.moddb.com/members/sabatu1/mods
